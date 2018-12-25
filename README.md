@@ -10,3 +10,7 @@ Using these registry files, we can force DirectDraw to use our own specified ref
 2. Merge the previously identified .reg file by double-clicking it and accepting the warnings. No restart required.
 3. Play your game as normal.
 4. When you're finished playing, merge `dd_force_clear.reg` by double-clicking it and accepting the warnings. This will remove entries created by step 1 - you probably don't want to keep them in case it interferes with other games.
+
+## Disclaimer
+
+I am not responsible for any damage caused by the files contained within this repository.
